@@ -1,0 +1,5 @@
+{
+  "camera_index": 0,
+  "yolo_model": "best.pt",
+  "frequency": 2.0
+}
